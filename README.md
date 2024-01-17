@@ -4,7 +4,7 @@
 
 
 
-**语言：**C++
+**语言**：C++
 
-**运行环境：**Linux && windows
+**运行环境**：Linux && windows
 
