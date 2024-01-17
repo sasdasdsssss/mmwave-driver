@@ -1,0 +1,7 @@
+﻿  DataTransmission.cpp
+  DealData.cpp
+F:\工作区\Driver  v1.3\DealData.cpp(54,20): warning C4018: “<”: 有符号/无符号不匹配
+  Driver.cpp
+  Network_Capture.cpp
+  正在生成代码...
+  Driver.vcxproj -> F:\工作区\Driver  v1.3\Debug\Driver.exe
